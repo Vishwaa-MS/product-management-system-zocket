@@ -1,0 +1,24 @@
+server:
+  port: 8080
+  debug: true
+
+database:
+  host: localhost
+  port: 5432
+  user: postgres
+  password: yourpassword
+  dbname: product_management
+
+redis:
+  host: localhost
+  port: 6379
+  password: "rediscache"
+
+rabbitmq:
+  host: localhost
+  port: 5672
+  queue_name: image_processing_queue
+
+s3:
+  bucket: product-images
+  region: us-east-1
