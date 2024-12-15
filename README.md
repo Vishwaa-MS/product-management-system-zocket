@@ -16,7 +16,6 @@ The **Product Management System** is a scalable and modular backend application 
 - [Development](#development)
 - [Testing](#testing)
 - [Performance Optimization](#performance-optimization)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Architecture
